@@ -6,8 +6,8 @@ const ERR_BAD_REQUEST = "ERR_BAD_REQUEST";
 
 class Network {
   constructor() {
-    this.baseUrl = "https://certificates-khai.onrender.com";
-    //this.baseUrl = "http://localhost:3001";
+    //this.baseUrl = "https://certificates-khai.onrender.com";
+    this.baseUrl = "http://localhost:3001";
   }
 
   signUp(data) {
