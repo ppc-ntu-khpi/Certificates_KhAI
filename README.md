@@ -49,6 +49,7 @@ Certificates_KhAI/
    git clone https://github.com/ppc-ntu-khpi/Certificates_KhAI.git
    cd Certificates_KhAI
    ```
+   і перейти до теки ````certific_generation````
 2. **Створити базу даних** в MongoDB Atlas (звісно ж, створивши також користувача з правами читання і запису), і прописатии рядок підключення до неї в файлі /src/server/server.js (рядок 27).
 
 3. **Встановити залежності**
