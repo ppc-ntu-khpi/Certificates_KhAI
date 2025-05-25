@@ -10,7 +10,7 @@
 
 [Відкрити для перегляду](https://github.com/ppc-ntu-khpi/Certificates_KhAI/blob/d50ea2680f856e69246765c4627c18bc0ab51c0e/Documents/%D0%91%D0%90%D0%91%D0%98%D0%A7-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F-%D0%B7%D0%B0%D1%85%D0%B8%D1%81%D1%82%20(1).pdf)
 
-## 📺 Відео роботи застсосунку
+## 📺 Відео роботи застосунку
 
 https://github.com/user-attachments/assets/3a4c64d3-a05b-4dc1-85c5-8843e7afbc28
 
